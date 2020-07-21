@@ -1,2 +1,3 @@
 # Charcreator-style-GTA-O
-I share my Charcreator style GTA:O. Screen : https://streamable.com/mwychn
+I share my Charcreator style GTA:O. Dependencys : skinchanger, instance. 
+Screen : https://streamable.com/mwychn
