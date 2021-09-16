@@ -1,6 +1,6 @@
 # Charcreator-style-GTA-O
 I share my Charcreator style GTA:O. Dependencys : skinchanger, instance. No support.
-Pour fix le bug du double menu, retirer ces lignes dans l'esx_skin :
+To fix the double menu bug, remove these lines in the esx_skin :
 
 AddEventHandler('playerSpawned', function()
 	Citizen.CreateThread(function()
